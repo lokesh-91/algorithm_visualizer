@@ -1,76 +1,46 @@
-🚀 Algorithm Visualizer
+🔮 Algorithm Visualizer
 
-An interactive Sorting Algorithm Visualizer built with Python (Flask), HTML, CSS, and JavaScript.
-This project helps in understanding how different sorting algorithms work step by step, with real-time animations and backend integration.
+This project is a visual learning tool that brings sorting algorithms to life. Instead of just reading code, you can see how algorithms work step by step with smooth animations and interactive controls.
 
-✨ Features
+🌟 Highlights
 
-🔑 Authentication-free usage – run instantly.
+🎨 Beautiful UI with colorful bars and animations
 
-🎨 Beautiful UI/UX with modern animations and responsive design.
+⚡ Real-time Sorting with speed control
 
-🔄 Real-time Python backend (Flask) integration for generating arrays and performing sorts.
+📊 Supports popular algorithms: Bubble, Selection, Insertion, Merge, Quick
 
-📊 Multiple Sorting Algorithms Supported:
+📱 Responsive Design – works across devices
 
-Bubble Sort
+🔗 Python + JavaScript Integration – backend logic powered by Flask, visual layer handled in JS
 
-Insertion Sort
+🚀 How to Run
 
-Selection Sort
+Clone the repo
 
-Merge Sort
+Install Flask:
 
-Quick Sort
-
-⚡ Adjustable Speed – control animation speed with a slider.
-
-📱 Responsive Design – works on desktop, tablet, and mobile.
-
-🏗️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript (animations + visualization)
-
-Backend: Python (Flask, REST API for algorithms)
-
-Styling: CSS3 with advanced transitions and gradients
-
-📸 Demo (Screenshot/GIF)
-
-Add a screenshot or GIF of your visualizer here.
-
-🚀 Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/your-username/algorithm-visualizer.git
-cd algorithm-visualizer
-
-2️⃣ Install dependencies
 pip install flask
 
-3️⃣ Run the server
+
+Run the app:
+
 python app.py
 
-4️⃣ Open in browser
-http://127.0.0.1:5000/
 
-📚 How It Works
+Open in your browser: http://127.0.0.1:5000/
 
-User clicks Generate Array → Backend generates random numbers.
+💡 Why This Project?
 
-User selects an algorithm and clicks Start Sorting → Backend processes sorting steps.
+Sorting algorithms are a core part of computer science, but they can feel abstract when studied in theory.
+This project turns them into a visual, interactive experience so learners can:
 
-Steps are sent to frontend → JS renders smooth animations of sorting.
+Understand the process behind each algorithm
 
-🎯 Learning Outcomes
+Compare how fast or slow each one works
 
-Understand sorting algorithms visually.
+Build intuition for algorithmic thinking
 
-Learn frontend-backend integration using Flask + JavaScript.
+🖤 Author
 
-Explore animations with CSS transitions.
-
-Practice full-stack development in Python and web technologies.
-
-🖤 Credits
-
-Developed by Lokesh ✨
+Made with passion by Lokesh (lokesh-91)
